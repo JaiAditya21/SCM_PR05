@@ -26,7 +26,7 @@
 - [ ] Set up project repository
 - [ ] Define project scope
 - [ ] Initial design sketches
-- [ ] !Release version 1.0
+- [ ] Release version 1.0
 
 ### [29-4-2024] - Milestone 2
 
