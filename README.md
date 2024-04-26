@@ -1,4 +1,3 @@
-
 # StrideCraft : Where Style Meets Dreams
 
 ## Team Members
@@ -16,6 +15,33 @@
   - Name: Jashan Yadav
   - Role: Tester
   - GitHub: https://github.com/Jashan2055
-
+ 
 ## Deadline
 - Project Deadline: 10th May
+
+## Project Timeline
+
+### [26-4-2024] - Milestone 1
+
+- [ ] Set up project repository
+- [ ] Define project scope
+- [ ] Initial design sketches
+
+### [29-4-2024] - Milestone 2
+
+- [ ] Complete frontend development
+- [ ] Implement backend functionalities
+- [ ] Begin testing phase
+
+### [3-5-2024] - Milestone 3
+
+- [ ] Finish testing
+- [ ] Finalize documentation
+- [ ] Prepare for project submission
+
+### [10-5-2024] - Completion
+
+- [ ] Complete final checks
+- [ ] Release version 1.0
+- [ ] Submit project
+
