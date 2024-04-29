@@ -7,17 +7,17 @@
 ## Team Members
 - **Member 1**
   - Name: Jai Aditya
-  - Role: Developer
+  - Roll No. : 2310992103
   - GitHub: https://github.com/JaiAditya21
 
 - **Member 2**
   - Name: Jaiveer Singh
-  - Role: Developer
+  - Roll No. : 2310992104
   - GitHub: https://github.com/JaiveerSingh2004
 
 - **Member 3**
   - Name: Jashan Yadav
-  - Role: Tester
+  - Roll No. : 2310992105
   - GitHub: https://github.com/Jashan2055
  
 ## Deadline
