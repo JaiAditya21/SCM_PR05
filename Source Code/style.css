@@ -2,7 +2,7 @@
     background-image: url('https://images.unsplash.com/flagged/photo-1556637640-2c80d3201be8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80');
     background-size: cover;
     background-position: center;
-    height: 900px; 
+    height: 600px; 
 }
 
 .center-heading {
@@ -11,6 +11,9 @@
     align-items: center;
     height: 100%; 
     text-align: center; 
+}
+.heading {
+    margin-bottom: 10px;
 }
 
 .carousel-item img {
@@ -23,13 +26,13 @@
   }
   .review-heading {
     font-size: 24px; /* Adjust the font size as needed */
-    font-weight: bold; /* Make the text bold */
-    margin-bottom: 10px; /* Add some space between the heading and the text */
+    font-weight: bold;
+    margin-bottom: 10px;
   }
   .carousel-wrapper {
-    display: flex; /* Display the items in a row */
-    justify-content: center; /* Center the items */
-    align-items: center; /* Center the items */
+    display: flex;
+    justify-content: center;
+    align-items: center;
     height: 300px; /* Set a fixed height */
     border: 1px solid #ccc; /* Border style for the box */
     border-radius: 10px; /* Rounded corners */
@@ -45,8 +48,6 @@
     text-align: center; /* Center the text */
   }
 
-
-
   .customer-name {
     font-style: italic;
     margin-top: 10px;
@@ -57,39 +58,3 @@
     font-weight: bold;
     margin-bottom: 10px;
   }
-
-  .image-container {
-    position: relative;
-    overflow: hidden;
-}
-
-.image-container:hover img {
-    opacity: 0.3; 
-}
-
-
-
-.overlay-text {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: white;
-    font-size: 24px;
-    opacity: 0; /* Initially hide text */
-    transition: opacity 0.3s ease; /* Add smooth transition for opacity */
-}
-
-.image-container:hover .overlay-text {
-    opacity: 1; /* Show text on hover */
-}
-.nav-item .nav-link {
-  font-size: 24px; /* Adjust the font size as needed */
-}
-
-
- @media screen and (max-width: 768px) {
-      .overlay-text {
-        display: none;
-      }
-    }
